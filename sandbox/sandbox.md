@@ -2,8 +2,8 @@
 
 ## GIF
 
-![GIF](./MazeScene.gif)
+![GIF](images/MazeScene.gif)
 
 ## WebM
 
-![WebM](./MazeScene.webm)
+![WebM](images/MazeScene.webm)
