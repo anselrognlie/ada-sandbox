@@ -6,7 +6,11 @@
 
 ## WebM
 
-![WebM](images/MazeScene.webm)
+<video title="animated maze" autoplay loop muted playsinline>
+
+ <source src="images/MazeScene.webm" type="video/webm">
+
+</video>
 
 ## WebP
 
