@@ -12,6 +12,8 @@
 
 </video>
 
+[WebM](images/MazeScene.webm)
+
 ## WebP
 
 ![WebP](images/MazeScene.webp)
