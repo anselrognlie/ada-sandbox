@@ -1,0 +1,13 @@
+---
+Standards:
+  -
+    Title: Sandbox
+    Description: "Isolated module to test things in learn that need a full deployment"
+    UID: 575b15d4-6fa6-4880-b351-b6d36d0c0051
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 3c283546-e343-4690-ad5a-2aec614e990a
+        Path: /sandbox.md
