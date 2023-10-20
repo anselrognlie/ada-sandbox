@@ -10,4 +10,4 @@
 
 ## WebP
 
-![WebP](images/MazeScene2.webp)
+![WebP](images/MazeScene.webp)
