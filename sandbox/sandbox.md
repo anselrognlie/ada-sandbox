@@ -6,7 +6,7 @@
 
 ## WebM
 
-<video title="animated maze" autoplay loop muted playsinline>
+<video title="animated maze" width=700 autoplay loop muted playsinline>
 
  <source src="https://learn-2.galvanize.com/curriculum-download/a0b30920cbeba69a3e2fd613b9727bbb/webm" type="video/webm">
 
