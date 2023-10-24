@@ -23,11 +23,11 @@
 
 -->
 
-## 15fps, high compression
+## 15fps, high compression (290K)
 ![15fps](images/15fps.webp)
 
-## 15fps, default compression
+## 15fps, default compression (851K)
 ![15fps](images/15fps-hi.webp)
 
-## 60fps, default compression
+## 60fps, default compression (2.5M)
 ![60fps](images/60fps.webp)
