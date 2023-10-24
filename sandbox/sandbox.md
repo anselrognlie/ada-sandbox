@@ -1,5 +1,6 @@
 # Large animations
 
+<!--
 ## GIF
 
 ![GIF](images/MazeScene.gif)
@@ -20,8 +21,13 @@
 
 ![WebP](images/MazeScene.webp)
 
+-->
+
 ## 15fps, high compression
 ![15fps](images/15fps.webp)
+
+## 15fps, default compression
+![15fps](images/15fps-hi.webp)
 
 ## 60fps, default compression
 ![60fps](images/60fps.webp)
