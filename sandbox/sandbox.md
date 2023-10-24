@@ -19,3 +19,9 @@
 ## WebP
 
 ![WebP](images/MazeScene.webp)
+
+## 15fps, high compression
+![15fps](images/15fps.webp)
+
+## 60fps, default compression
+![60fps](images/60fps.webp)
